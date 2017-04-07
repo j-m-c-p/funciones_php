@@ -10,5 +10,5 @@
 	echo "<br><br>";
 	echo "<br><br>";
 
-	//echo phpinfo();
+	echo phpinfo();
 ?>
