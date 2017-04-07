@@ -15,6 +15,7 @@
 		<input type="text" name="funcion" placeholder="Digite la funci&oacute;n">
 
 		<input type="submit" value="Generar">
+		
 	</form> 
 	</center>
 
